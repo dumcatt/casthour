@@ -1,4 +1,4 @@
-# nvenc-proxy
+# Casthour
 
 Streams beatmania IIDX live to OBS, or to a file, with the game's own audio. It covers every screen: menus, demo play, songs and results. The game's built-in play recorder keeps working unchanged.
 
@@ -8,7 +8,7 @@ Streams beatmania IIDX live to OBS, or to a file, with the game's own audio. It 
 - **Clean frames:** while the game's recorder runs, the stream uses its picture, which leaves out CREDITS, the arcade name and leaderboard names. Elsewhere, you configure your own masks.
 - **Game audio timing is untouched:** buffer size, latency and offset stay as they were.
 
-Tested with spice2x on IIDX 33 (LDJ, TDJ mode, 1080p @ 120 Hz) and an ASUS Xonar U7 MKII (ASIO).
+Tested with spice2x on 33, 34 (LDJ, TDJ mode (010 DLL), 1080p @ 120 Hz) and an ASUS Xonar U7 MKII (ASIO).
 
 ## Install
 

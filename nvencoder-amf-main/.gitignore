@@ -1,7 +1,0 @@
-build/
-third_party/
-dist/*.dll
-dist/*.lib
-dist/*.exp
-*.obj
-*.log
