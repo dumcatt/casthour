@@ -1,0 +1,21 @@
+# Build output (build.bat)
+/build/
+/dist/
+
+# MSVC / CMake / IDE leftovers
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+*.ipch
+.vs/
+out/
+CMakeFiles/
+CMakeCache.txt
+
+# Runtime and test output
+*.log
+*.ts
+*.mp4
